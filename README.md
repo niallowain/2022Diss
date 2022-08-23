@@ -25,4 +25,5 @@ Contains `models` which hopes to return for given nodes the trajectories of Temp
 
 Hopefully this will not need to be used, but contains the updated code for Koher et al (2017) which modelled Contact Based Model with an edge-based approach, it may be quicker but would need different inputs to other scripts provided here
 
+Also, requires networkx for execution
 
